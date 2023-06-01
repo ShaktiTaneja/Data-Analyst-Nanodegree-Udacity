@@ -1,2 +1,2 @@
 # Projects
-This repository contains all simple projects built.
+This repository contains all projects built for completion of the Nanodegree.
